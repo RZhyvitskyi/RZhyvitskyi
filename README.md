@@ -1,24 +1,22 @@
-## Hey! 👋
+### Hi there 👋, Rostyslav Zhyvitskyi
+#### Web Development
 I'm Rostyslav, a 28 years old web developer from Ukraine. Currently living in Denmark.
 
-- am a graduate from National Aviation University, Telecommunication.
+Skills: REACT / JS / HTML / CSS
 
-- a student from @HackYourFuture-CPH.
+- 🔭 I’m currently working on My self education 
+- 🌱 I’m currently learning TypeScript / Node JS 
+- 💬 Ask me about Tech 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RZhyvitskyi)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, HTML
-- ⚙️ React
-- 👁️ SCSS, CSS, Bootstrap
-- 💽 Mongo
-- ⚒️ WebPack
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RZhyvitskyi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rostyslav-zhyvitskyi-02b42695//)  
 
-## Interests 
-- 💻 Technology
-- 🚴‍♂️ Cycling 
-- 🍳 Cooking
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RZhyvitskyi)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
-- Email: rostik94@gmail.com
-- Linkedin: https://www.linkedin.com/in/rostyslav-zhyvitskyi-02b42695/
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RZhyvitskyi&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RZhyvitskyi)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RZhyvitskyi)  
+
+![Profile views](https://gpvc.arturio.dev/RZhyvitskyi)  
