@@ -1,13 +1,11 @@
-<h1 align="center">
-  Rostyslav Zhyvitskyi
-</h1>
-
 ## Hey! 👋
 I'm Rostyslav, a 28 years old web developer from Ukraine. Currently living in Denmark.
 
-- Is a graduate from National Aviation University, Telecommunication.
+- am a graduate from National Aviation University, Telecommunication.
 
-- A student from @HackYourFuture-CPH.
+- a student from @HackYourFuture-CPH.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RZhyvitskyi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, HTML
