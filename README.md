@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+  Rostyslav Zhyvitskyi
+</h1>
 
-<!--
-**RZhyvitskyi/RZhyvitskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Rostyslav, a 28 years old web developer from Ukraine. Currently living in Denmark.
 
-Here are some ideas to get you started:
+- Is a graduate from National Aviation University, Telecommunication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A student from @HackYourFuture-CPH.
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, HTML
+- ⚙️ React
+- 👁️ SCSS, CSS, Bootstrap
+- 💽 Mongo
+- ⚒️ WebPack
+
+## Interests 
+- 💻 Technology
+- 🚴‍♂️ Cycling 
+- 🍳 Cooking
+
+## Contact
+- Email: rostik94@gmail.com
+- Linkedin: https://www.linkedin.com/in/rostyslav-zhyvitskyi-02b42695/
